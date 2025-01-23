@@ -1,4 +1,4 @@
-### Tiffin Service Website
+# Tiffin Service Website
 - This repository contains the source code for a website dedicated to a Tiffin service business. The website allows users to browse the available meal options, place orders, view prices, and contact the service. It also features an admin panel to manage orders, update the menu, and track deliveries.
 
 ## Key Features:
